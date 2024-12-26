@@ -1,0 +1,1 @@
+module skillfactory-ci-sample
